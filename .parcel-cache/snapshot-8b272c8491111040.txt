@@ -1,5 +1,5 @@
-6018
-48D:\WebDev\TicTacToe-React\dist\index.3d214d75.js133662284470801432 0
+6020
+48D:\WebDev\TicTacToe-React\dist\index.3d214d75.js133662618320805485 0
 85D:\WebDev\TicTacToe-React\node_modules\caniuse-lite\data\features\css-mediaqueries.js133662052128649339 0
 71D:\WebDev\TicTacToe-React\node_modules\htmlnano\lib\modules\example.cjs133662052053399141 0
 64D:\WebDev\TicTacToe-React\node_modules\@parcel\core\lib\utils.js133662052127455044 0
@@ -8,7 +8,7 @@
 60D:\WebDev\TicTacToe-React\node_modules\svgo\lib\svgo-node.js133662052081957387 0
 93D:\WebDev\TicTacToe-React\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\lexer133662052121612999 1
 53D:\WebDev\TicTacToe-React\node_modules\@swc\helpers\_133662052141932790 1
-34D:\WebDev\TicTacToe-React\index.js133662247907951938 0
+34D:\WebDev\TicTacToe-React\index.js133662614258878332 0
 95D:\WebDev\TicTacToe-React\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\tooltag133662052073043345 0
 116D:\WebDev\TicTacToe-React\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\replace\AttributeSelector.js133662052060822215 0
 55D:\WebDev\TicTacToe-React\node_modules\srcset\readme.md133662052026875482 0
@@ -19,6 +19,7 @@
 80D:\WebDev\TicTacToe-React\node_modules\@swc\helpers\esm\_class_name_tdz_error.js133662052120189410 0
 58D:\WebDev\TicTacToe-React\node_modules\msgpackr\index.d.ts133662052105496848 0
 62D:\WebDev\TicTacToe-React\node_modules\supports-color\index.js133662052022745398 0
+52D:\WebDev\TicTacToe-React\dist\index.3d214d75.js.map133662618320947177 0
 88D:\WebDev\TicTacToe-React\node_modules\csso\node_modules\css-tree\lib\convertor\index.js133662052128234842 0
 35D:\WebDev\TicTacToe-React\style.css133662255683007247 0
 60D:\WebDev\TicTacToe-React\node_modules\dotenv-expand\LICENSE133662052027853191 0
@@ -33,7 +34,7 @@
 65D:\WebDev\TicTacToe-React\node_modules\svgo\plugins\reusePaths.js133662052115997793 0
 62D:\WebDev\TicTacToe-React\node_modules\csso\lib\replace\atrule133662052112341231 1
 70D:\WebDev\TicTacToe-React\node_modules\caniuse-lite\data\regions\MD.js133662052154594107 0
-30D:\WebDev\TicTacToe-React\dist133662284471010471 1
+30D:\WebDev\TicTacToe-React\dist133662618320965102 1
 68D:\WebDev\TicTacToe-React\node_modules\entities\lib\maps\legacy.json133662052059742931 0
 56D:\WebDev\TicTacToe-React\node_modules\@msgpackr-extract133662058697104630 1
 65D:\WebDev\TicTacToe-React\node_modules\css-tree\lib\syntax\config133662052146680697 1
@@ -48,12 +49,12 @@
 61D:\WebDev\TicTacToe-React\node_modules\domhandler\lib\node.js133662052024220532 0
 109D:\WebDev\TicTacToe-React\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\scope\value.js133662052122964193 0
 64D:\WebDev\TicTacToe-React\node_modules\css-tree\lib\utils\url.js133662052146000065 0
-36D:\WebDev\TicTacToe-React\.gitignore133662067073643156 0
+36D:\WebDev\TicTacToe-React\.gitignore133662287045682588 0
 57D:\WebDev\TicTacToe-React\node_modules\utility-types\dist133662052072959095 1
 64D:\WebDev\TicTacToe-React\node_modules\domhandler\lib\index.d.ts133662052051731045 0
 37D:\WebDev\TicTacToe-React\.prettierrc133662261609002568 0
 100D:\WebDev\TicTacToe-React\node_modules\css-select\node_modules\entities\lib\generated\encode-html.js133662052063172891 0
-32D:\WebDev\TicTacToe-React\app.js133662284468548812 0
+32D:\WebDev\TicTacToe-React\app.js133662617867598877 0
 47D:\WebDev\TicTacToe-React\node_modules\boolbase133662052022442609 1
 83D:\WebDev\TicTacToe-React\node_modules\csso\node_modules\css-tree\lib\syntax\atrule133662052130261070 1
 59D:\WebDev\TicTacToe-React\node_modules\nullthrows\README.md133662052037637466 0
@@ -3091,6 +3092,7 @@
 87D:\WebDev\TicTacToe-React\node_modules\csso\node_modules\css-tree\cjs\lexer\generic.cjs133662052097539335 0
 79D:\WebDev\TicTacToe-React\node_modules\caniuse-lite\data\features\css-shapes.js133662052130200376 0
 85D:\WebDev\TicTacToe-React\node_modules\csso\node_modules\css-tree\cjs\lexer\index.cjs133662052104204067 0
+52D:\WebDev\TicTacToe-React\dist\index.786fda6c.js.map133662618193773549 0
 91D:\WebDev\TicTacToe-React\node_modules\csso\node_modules\css-tree\cjs\lexer\match-graph.cjs133662052110128507 0
 86D:\WebDev\TicTacToe-React\node_modules\csso\node_modules\css-tree\cjs\lexer\search.cjs133662052116229939 0
 90D:\WebDev\TicTacToe-React\node_modules\csso\node_modules\css-tree\cjs\generator\create.cjs133662052076182233 0
@@ -6009,11 +6011,11 @@
 54D:\WebDev\TicTacToe-React\node_modules\.bin\semver.ps1133662052220613555 0
 53D:\WebDev\TicTacToe-React\dist\index.1336d1d4.css.map133662255197414812 0
 53D:\WebDev\TicTacToe-React\dist\index.1e2b8b93.css.map133662058549264978 0
+49D:\WebDev\TicTacToe-React\dist\index.3a01df49.css133662284321291404 0
+53D:\WebDev\TicTacToe-React\dist\index.3a01df49.css.map133662284321323303 0
+48D:\WebDev\TicTacToe-React\dist\index.786fda6c.js133662618193558673 0
 48D:\WebDev\TicTacToe-React\dist\index.86efb365.js133662279022103220 0
 48D:\WebDev\TicTacToe-React\dist\index.aa2057d9.js133662252154046380 0
 52D:\WebDev\TicTacToe-React\dist\index.aa2057d9.js.map133662252154167784 0
 53D:\WebDev\TicTacToe-React\dist\index.e771fd0d.css.map133662255804810606 0
-49D:\WebDev\TicTacToe-React\dist\index.3a01df49.css133662284321291404 0
-53D:\WebDev\TicTacToe-React\dist\index.3a01df49.css.map133662284321323303 0
-41D:\WebDev\TicTacToe-React\dist\index.html133662284322402326 0
-52D:\WebDev\TicTacToe-React\dist\index.3d214d75.js.map133662284470941894 0
+41D:\WebDev\TicTacToe-React\dist\index.html133662618193528062 0
